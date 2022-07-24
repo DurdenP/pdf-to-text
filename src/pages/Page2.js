@@ -1,5 +1,5 @@
 import React, {useState, useLayoutEffect} from "react";
-import logo from "../assets/logo.png";
+import logo from "../assets/make_h1.png";
 import "../App.css";
 import axios from "axios";
 
